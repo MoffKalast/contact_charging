@@ -1,0 +1,7 @@
+<launch>
+
+	<node name="contact_charger" pkg="contact_charger" type="charger.py" output="screen">
+		<!-- params here -->
+	</node>
+
+</launch>
